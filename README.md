@@ -1,1 +1,1 @@
-The issue i had with the footer not fitting was because of the font size in the landing div, it had a width that i put in which was unneccessary. It was pushing out the width, so i removed it in order to fit the page correctly.
+The issue i had with the footer not fitting was in the landing div, it had a width that i put in which was unneccessary. It was pushing out the width, so i removed it in order to fit the page correctly.
